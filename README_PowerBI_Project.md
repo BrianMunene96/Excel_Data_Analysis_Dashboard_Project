@@ -158,19 +158,19 @@ ADDCOLUMNS(
 
 ## Dashboard Pages
 
-### Page 1 — Executive Dashboard
+### Page 1 - Executive Dashboard
 
 ![Executive Dashboard](powerbi_dashboard_1.png)
 
 The overview page displays five KPI cards across the top: **Total Orders (100)**, **Total Revenue ($98.31K)**, **Total Profit ($12.12K)**, **Average Profit Margin (13.44%)**, and **Average Shipping Cost ($20.98)**. Below the KPIs, a horizontal bar chart ranks products by sales amount, a grouped bar chart compares revenue and profit by category, a donut chart shows sales distribution by sales rep, and a pie chart breaks down revenue by payment method. City and Category slicers on the right side enable interactive filtering across all visuals.
 
-### Page 2 — Product Analysis
+### Page 2 - Product Analysis
 
 ![Product Analysis](powerbi_dashboard_2_products.png)
 
 Side-by-side bar charts compare total revenue and total profit by product, making it straightforward to spot where revenue and profitability diverge. Two map visuals plot total revenue and total shipping cost by city across the US and Canada. A horizontal bar chart shows average profit margin by product, sorted from highest (Sonos One Speakers at 20%) to lowest (LG OLED TV at 7.5%).
 
-### Page 3 — Sales Reps and Customers
+### Page 3 - Sales Reps and Customers
 
 ![Sales Reps and Customers](powerbi_dashboard_3_salesReps.png)
 
